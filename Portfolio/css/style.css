@@ -1,0 +1,68 @@
+@import url(components/buttons.css);
+@import url(components/cards.css);
+@import url(components/containers.css);
+@import url(components/fichier.css);
+@import url(components/images.css);
+
+
+
+.Moi{
+height: 5cm; width: 5cm;
+border-radius: 100%;
+}
+
+.degrade-horizontal {
+  background: linear-gradient(to right, #FBBFB8, #F79F95,#F38071,#F0604D);
+}
+
+.degrade-horizontal{
+  width: 100%;
+  height: 100px;
+  margin-top: 5cm ;
+  
+  bottom: 0;
+}
+
+.carousel{
+  width: 12cm;
+  height:12cm;
+  margin-left: 35%;
+  margin-right: 35%;
+  padding-top: 2%;
+  padding-bottom: 3%;
+}
+
+.carousel-item{
+  width: 12cm;
+  height: 12cm;
+}
+
+p{
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+
+body{
+  background-color: #FFDFDB;
+}
+
+.img-cerisier{
+  margin: auto;
+
+}
+
+.navbar{
+background: silver;
+height: 100%;
+width:100%;
+position: relative;
+bottom: 0;}
+

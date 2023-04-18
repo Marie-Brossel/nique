@@ -1,0 +1,179 @@
+
+
+
+
+
+body{
+    background-color: rgb(134, 222, 134);
+}
+
+
+
+.bandef{
+    font-size: xx-large;
+    background-color: rgb(76, 184, 72);
+    text-align:center;
+    color: white;
+    padding-bottom: 2%;
+}
+
+.Menu_list{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    
+  margin-top: 2%;
+}
+
+.Detail_du_produit{
+    text-align: left 100%;
+        color: white;
+        background-color:rgb(76,184,72);
+        background-size: 10%;
+        height: 10%;
+        width: 10%;
+        padding: 30px;
+        border-radius: 10%;
+}
+    .Boutique{
+    text-align: left 100%;
+        color: white;
+        background-color:rgb(76,184,72);
+        background-size: 10%;
+        height: 100%;
+        width: 10%;
+        padding: 30px;
+        border-radius: 10%;
+    }
+
+    .Contactez_nous{
+        text-align: left 100%;
+        color: white;
+        background-color:rgb(76,184,72);
+        background-size: 10%;
+        height: 100%;
+        width: 10%;
+        padding: 30px;
+        border-radius: 10%;
+    }
+
+    .Text-intro{
+        font-size: larger;
+        align-items: center;
+        color: white;
+        display: flex;
+position: relative;
+background-image: url(Images/point-interrogation.jpg);
+background-size: contain;
+margin-top: 5%;
+color: black;
+
+}
+
+.Text-model-serre{
+    font-size: x-large;
+    text-align: center;
+    color: white;
+    background-color:rgb(76,184,72);
+    height: 10%;
+    padding: 20px;
+    margin-top: 5%;
+    
+}
+.Details-model-serre{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-left: 10%;
+    margin-right: 10%;
+margin-top: 5%;
+background-color: rgb(134, 222, 134);
+background-size: cover;
+
+}
+
+
+.Bouton{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+  margin-top: 2%;
+}
+
+.bouton1{
+    text-align: center;
+        color: white;
+        background-color:rgb(76,184,72);
+        background-size: 10%;
+        height: 100%;
+        width: 10%;
+        padding: 30px;
+        border-radius: 10%;
+        margin-left: 20%;
+        margin-right: 18%;
+        margin-bottom: 5%;
+        
+}
+
+.bouton2{
+    text-align: center;
+    color: white;
+    background-color:rgb(76,184,72);
+    background-size: 10%;
+    height: 100%;
+    width: 10%;
+    padding: 30px;
+    border-radius: 10%;
+    margin-left: 25%; 
+    margin-right: 31%;
+    margin-bottom: 5%;
+}
+
+.Pourquoi-choisir-Myfood{
+    font-size: x-large;
+    text-align: center;
+    color: white;
+    background-color:rgb(76,184,72);
+
+    height: 10%;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    
+    
+}
+
+.Pourquoi-Myfood{
+  
+    display: flex;
+padding-left: 5%;
+padding-top: 5%;
+    align-items: center;
+    border-radius: 10%;
+    flex-wrap: wrap;
+    margin-bottom: 5%;
+
+}
+
+body{
+    background-image:url(Images/gif_foret.gif);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+
+.hesitez-pas{
+background-color: rgb(6, 102, 15);
+color: white;
+font-size: x-large;
+padding-bottom: 5%;
+}
+.reseaux{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    background-color: rgb(6, 102, 15);
+
+}

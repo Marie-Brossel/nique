@@ -1,0 +1,35 @@
+.grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 16px;}
+
+  .title{
+    margin: auto;
+    text-align: center;
+    
+    }
+
+    .grid-2{
+      display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 16px;
+
+    }
+
+    .design-box{
+      display: flex;
+      font-size: larger;
+    align-items: center;
+    color: white;
+   flex-direction: row;
+    position: relative;
+    background-color: white;
+    border-radius: 2%;
+    background-size: contain;
+    margin-top: 5%;
+    color: #F38071;
+    
+ 
+}
+
+   

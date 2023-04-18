@@ -1,0 +1,121 @@
+.btn-dessin-crayon{
+    background-color:#F79F95;
+    text-transform: uppercase;
+    border-radius: 999999px;
+    border: none;
+    padding: 10px 20px;
+    color: #ffffff;
+    transition: all 1s;
+    
+}
+
+.btn-dessin-crayon:hover{
+animation: zoomIn 1.5s;
+}
+
+@keyframes zoomIn {
+ from{
+    opacity: 0;
+    transform: scale3d(0.3,0.3,0.3);
+
+ }
+
+ 50% {
+    opacity: 1;
+ }
+
+}
+.btn-dessin-tablette-graphique{
+    background-color:#F38071;
+    text-transform: uppercase;
+    border-radius: 999999px;
+    border: none;
+    padding: 10px 20px;
+    color: #ffffff;
+    transition: all 1s;
+}
+
+
+.btn-dessin-tablette-graphique:hover{
+    animation: zoomIn 1.5s;
+    }
+    
+    @keyframes zoomIn {
+     from{
+        opacity: 0;
+        transform: scale3d(0.3,0.3,0.3);
+    
+     }
+    
+     50% {
+        opacity: 1;
+     }
+    
+    }
+.btn-stage{
+    background-color:#F0604D;
+    text-transform: uppercase;
+    border-radius: 999999px;
+    border: none;
+    padding: 10px 20px;
+    color: #ffffff;
+    transition: all 1s;
+
+}
+.btn-stage:hover{
+    animation: zoomIn 1.5s;
+    }
+    
+    @keyframes zoomIn {
+     from{
+        opacity: 0;
+        transform: scale3d(0.3,0.3,0.3);
+    
+     }
+    
+     50% {
+        opacity: 1;
+     }
+    
+    }
+
+
+.btn-codage{
+    background-color:#FBBFB8;
+    text-transform: uppercase;
+    border-radius: 999999px;
+    border: none;
+    padding: 10px 20px;
+    color: #ffffff;
+    transition: all 1s;
+}
+
+.btn-jeux-video{
+    background-color:#F79F95;
+    text-transform: uppercase;
+    border-radius: 999999px;
+    border: none;
+    padding: 10px 20px;
+    color: #ffffff;
+    transition: all 1s;
+}
+
+.btn-design{
+    background-color:#F38071;
+    text-transform: uppercase;
+    border-radius: 999999px;
+    border: none;
+    padding: 10px 20px;
+    color: #ffffff;
+    transition: all 1s;
+}
+
+.btn-3d{
+    background-color:#F0604D;
+    text-transform: uppercase;
+    border-radius: 999999px;
+    border: none;
+    padding: 10px 20px;
+    color: #ffffff;
+    transition: all 1s;
+}
